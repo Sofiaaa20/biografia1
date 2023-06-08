@@ -13,10 +13,13 @@ img{
     box-sizing: border-box;
     border-radius: 60px;
     padding-top: 20px;
+    margin-bottom: 20px;
 }
 
 span{
     
+    font-family: cursive;
+    font-size: 30px;
 }
 
 
